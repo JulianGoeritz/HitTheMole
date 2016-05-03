@@ -1,0 +1,46 @@
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\bin\Debug\HitTheMole.exe
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\bin\Debug\HitTheMole.exe.config
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.Einleitung.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.Highscores.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.Loader.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.SpielAuswahl.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W1_Level3.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W1_Level2.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W1_Level1.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.SpielMenü.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W2_Level3.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W2_Level2.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W2_Level1.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W3_Level3.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W3_Level2.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W3_Level1.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.Properties.Resources.resources
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.csproj.GenerateResource.Cache
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.exe
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.pdb
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\bin\Debug\HitTheMole.pdb
+C:\Users\Julian\Desktop\Hit The Mole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\bin\Debug\HitTheMole.exe
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\bin\Debug\HitTheMole.pdb
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.Einleitung.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.Highscores.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.Loader.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.SpielAuswahl.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W1_Level3.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W1_Level2.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W1_Level1.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.SpielMenü.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W2_Level3.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W2_Level2.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W2_Level1.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W3_Level3.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W3_Level2.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.W3_Level1.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.Properties.Resources.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.csproj.GenerateResource.Cache
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.exe
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.pdb
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\bin\Debug\HitTheMole.exe.config
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.csprojResolveAssemblyReference.cache
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.Über.resources
+C:\Users\Julian\Desktop\HitTheMole\HitTheMole\HitTheMole\obj\Debug\HitTheMole.Einstellungen.resources
